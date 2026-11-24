@@ -1,0 +1,7 @@
+Metric,Training,Test
+Accuracy,0.77,0.7408
+Sensitivity (Recall),0.7762,0.7199
+Specificity,0.7678,0.7487
+Precision (PPV),N/A,0.5218
+AUC Score,0.8478,0.8277
+Decision Threshold,0.3,0.3
