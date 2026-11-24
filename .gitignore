@@ -39,3 +39,6 @@ build/
 
 # Logs
 *.log
+
+# Local presentation folder (excluded from git)
+presentation/
